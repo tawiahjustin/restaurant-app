@@ -21,7 +21,7 @@ const AboutUs = () => (
           eaque molestias minus quaerat, in itaque maiores
         </p>
         <button type='button' className='custom__button'>
-          Know More
+          Know More.
         </button>
       </div>
 
